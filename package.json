@@ -1,0 +1,39 @@
+{
+  "name": "sensei-dark",
+  "displayName": "Sensei Dark",
+  "description": "Theme For Visual Studio Code",
+  "publisher": "Bane-999",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sensei Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sensei Dark-color-theme.json"
+      }
+    ]
+  },
+  "capabilities": {
+		"untrustedWorkspaces": {
+			"supported": true
+		}
+	},
+	"devDependencies": {
+		"vscode": "^1.0.0"
+	},
+	"extensionKind": [
+		"ui",
+		"workspace"
+	],
+	"homepage": "https://github.com/Bane-999/sensei.dark",
+	"bugs": {
+		"url": "https://github.com/Bane-999/sensei.dark"
+	},
+	"icon": "icon.png"
+}
