@@ -18,6 +18,7 @@
 		"list.inactiveSelectionForeground": "#edcf85",
 		"menu.selectionForeground": "#edcf85",
 		"minimapGutter.modifiedBackground": "#edcf85",
+    "minimap.selectionHighlight": "#edcf85",
 		"notificationLink.foreground": "#edcf85",
 		"panelTitle.activeBorder": "#edcf85",
 		"panelTitle.activeForeground": "#edcf85",
@@ -33,6 +34,9 @@
 		"terminal.ansiYellow": "#edcf85",
 		"testing.runAction": "#edcf85",
 		"textLink.foreground": "#edcf85",
+    "terminal.selectionBackground": "#edcf85",
+    "terminalOverviewRuler.findMatchForeground": "#edcf85",
+    "terminal.findMatchHighlightBackground": "#edcf85",
 // --------------------------------------------------
 		"activityBar.background": "#15141d",
 		"activityBar.border": "#15141d",
@@ -355,6 +359,7 @@
 		"terminal.ansiBlue": "#eb9d77",
 		"terminal.ansiBrightBlue": "#eb9d77",
 		"testing.iconSkipped": "#eb9d77",
+    "terminal.findMatchBackground": "#eb9d77",
 // --------------------------------------------------
 		"charts.purple": "#be9dc8",
 		"debugTokenExpression.number": "#be9dc8",
@@ -448,7 +453,6 @@
 		"editorOverviewRuler.wordHighlightStrongForeground": "#ebf4f419",
 		"merge.commonHeaderBackground": "#ebf4f419",
 		"scrollbarSlider.hoverBackground": "#ebf4f419",
-		"terminal.selectionBackground": "#ebf4f419",
 // --------------------------------------------------
 		"editor.findMatchHighlightBorder": "#00000000",
 		"editor.findRangeHighlightBorder": "#00000000",
@@ -475,7 +479,6 @@
 		"editor.focusedStackFrameHighlightBackground": "#b4b8c126",
 		"editor.selectionBackground": "#b4b8c126",
 		"editor.stackFrameHighlightBackground": "#b4b8c126",
-		"minimap.selectionHighlight": "#b4b8c126",
 		"scrollbarSlider.background": "#b4b8c126",
 		"selection.background": "#b4b8c126",
 		// --------------------------------------------------
@@ -500,6 +503,7 @@
     "minimap.findMatchHighlight": "#8b8a98a5",
     "minimap.selectionOccurrenceHighlight": "#6d667da5",
     "minimap.warningHighlight": "#dda08ba5",
+    "minimap.background" : "#252436",
     "notebook.cellEditorBackground": "#1c19277f",
     "settings.rowHoverBackground": "#6d667d0c",
 		"terminal.background": "#252436",
