@@ -477,7 +477,6 @@
 		"statusBarItem.hoverBackground": "#ebf4f40c",
 // --------------------------------------------------
 		"editor.focusedStackFrameHighlightBackground": "#b4b8c126",
-		"editor.selectionBackground": "#b4b8c126",
 		"editor.stackFrameHighlightBackground": "#b4b8c126",
 		"scrollbarSlider.background": "#b4b8c126",
 		"selection.background": "#b4b8c126",
@@ -502,6 +501,7 @@
     "merge.incomingHeaderBackground": "#afc08526",
     "minimap.findMatchHighlight": "#8b8a98a5",
     "minimap.selectionOccurrenceHighlight": "#6d667da5",
+		"editor.selectionBackground": "#a3562f",
     "minimap.warningHighlight": "#dda08ba5",
     "minimap.background" : "#252436",
     "notebook.cellEditorBackground": "#1c19277f",

@@ -8,7 +8,7 @@ Theme For Visual Studio Code
 
 1. In vs code press 'ctrl + shift + p'
 2. Type 'Extensions: Install from VSIX'
-3. Find the path of file 'sensei-dark-1.0.2.vsix'
+3. Find the path of file 'sensei-dark-1.0.3.vsix'
 4. You can see new theme in the extensions tab.
 
 # How to edit theme:
